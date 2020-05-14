@@ -45,3 +45,5 @@ async function drawCards(amount) {
 }
 
 makeNewDeck();
+
+// commento scritto da me oggi 14 maggio 2020
